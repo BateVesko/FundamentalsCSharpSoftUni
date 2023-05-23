@@ -1,8 +1,8 @@
 using System;
 
-int cars=int.Parse(Console.ReadLine());   
-Console.WriteLine(cars);
-if (cars < 0)
+int films=int.Parse(Console.ReadLine());   
+Console.WriteLine(films);
+if (films < 0)
 {
     Console.WriteLine("0");
 }
